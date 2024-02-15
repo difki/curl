@@ -1,5 +1,5 @@
-name: No Out of Hours Merge
-uses: koconder/no-out-of-hours-merge@v1.0.0
+-name: No Out of Hours Merge
+ uses: koconder/no-out-of-hours-merge@v1.0.0
 
 
 
